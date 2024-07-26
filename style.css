@@ -11,6 +11,10 @@
     --paragraph-font: "Outfit", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 
 body{
     background: var(--background);
