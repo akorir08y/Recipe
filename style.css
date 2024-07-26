@@ -19,9 +19,11 @@ body{
     padding: 10px;
 }
 
+
 .card{
     position:absolute;
     margin: 0;
+    margin-top: 100px;
     top: 0%;
     left: 50%;
     transform: translate(-50%, 0);
